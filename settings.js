@@ -27,16 +27,16 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
-  BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
+  BOT_NAME: 'KING ANOS',
+  OWNER_NAME: 'ANOS',
+  OWNER_NUMBER: '967718633216','967777590107'
   SUDO: '94715166712',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
-  STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  STICKER_PACK: 'QUEEN ELISA',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ KING ANOS ᴍᴅ\nmr-nima.vercell.app',
+  STICKER_AUTHOR: 'ANOS 3MK',
+  STICKER_PACK: 'KING ANOS',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90, //size in MB
   OWNER_R_EMOJI: '💻',
@@ -49,7 +49,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,// Bot online status
   READ_MESSAGE: false,
-  ANTI_MSG_SPAM: false,
+  ANTI_MSG_SPAM: true,
   ANTI_BAD_WORD: false,
   ANTI_VIEW_ONES: false, // This not working now !
   ANTI_DELETE: true,
