@@ -1,7 +1,7 @@
 {
-  "name": "queenelisa",
+  "name": "KingAnos",
   "version": "4.0.2",
-  "description": "QUEEN ELISA is an intelligent communication bot designed to interact with users and provide various services. Developed by Mr. Nima, it enhances user engagement through automated responses, information retrieval, and downloading media. Versatile for applications like personal assistance.",
+  "description": "King Anos is an intelligent communication bot designed to interact with users and provide various services. Developed by Mr. Nima, it enhances user engagement through automated responses, information retrieval, and downloading media. Versatile for applications like personal assistance.",
   "main": "main.js",
   "directories": {
     "lib": "lib"
